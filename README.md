@@ -21,6 +21,7 @@
 [<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>][website]
 [<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>][website]
 [<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>][website]
+<br/>
 <img align="left" alt="furkankykc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=furkankykc&show_icons=true&hide_border=true" />
 
 
