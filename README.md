@@ -2,7 +2,7 @@
 
 ### Connect with me:
 [<img align="left" alt="furkankykc.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="furkankykc | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
+[<img align="left" alt="furkankykc | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="furkankykc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="furkankykc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="furkankykc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -38,7 +38,7 @@
 
 [website]: https://furkankykc.me
 [twitter]: https://twitter.com/furkankykc
-[youtube]: https://youtube.com/furkankykc
+[mail]: mailto:furkanfbr@gmail.com
 [instagram]: https://instagram.com/furkankykc
 [linkedin]: https://linkedin.com/in/furkankykc
 [discord]: https://linkedin.com/in/furkankykc 
