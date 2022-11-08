@@ -16,16 +16,6 @@
 [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][website]
 <br/>
 
-[<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>][website]
-[<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>][website]
-[<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>][website]
-<br/>
-
-[<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>][website]
-[<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>][website]
-[<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>][website]
-<br/>
-
 <img align="right" alt="furkankykc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=furkankykc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankykc" />
 
