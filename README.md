@@ -4,6 +4,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=furkankykc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkankykc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Furkankykc&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+---
 [website]: https://furkankykc.me
 [twitter]: https://twitter.com/furkankykc
 [mail]: mailto:furkanfbr@gmail.com
